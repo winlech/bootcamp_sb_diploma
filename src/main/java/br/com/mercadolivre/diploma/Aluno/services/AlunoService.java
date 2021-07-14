@@ -1,8 +1,9 @@
-package br.com.mercadolivre.diploma.Aluno;
+package br.com.mercadolivre.diploma.Aluno.services;
 
+import br.com.mercadolivre.diploma.Aluno.entities.Disciplina;
+import br.com.mercadolivre.diploma.Aluno.entities.Aluno;
+import br.com.mercadolivre.diploma.Aluno.entities.Diploma;
 import org.springframework.stereotype.Service;
-
-import java.util.HashMap;
 
 @Service
 public class AlunoService {

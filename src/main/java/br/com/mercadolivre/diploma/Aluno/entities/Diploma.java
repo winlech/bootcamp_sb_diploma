@@ -1,4 +1,4 @@
-package br.com.mercadolivre.diploma.Aluno;
+package br.com.mercadolivre.diploma.Aluno.entities;
 
 public class Diploma {
 

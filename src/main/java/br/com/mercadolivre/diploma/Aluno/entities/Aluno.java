@@ -1,7 +1,6 @@
-package br.com.mercadolivre.diploma.Aluno;
+package br.com.mercadolivre.diploma.Aluno.entities;
 
 import java.util.List;
-import java.util.Map;
 
 public class Aluno {
 
